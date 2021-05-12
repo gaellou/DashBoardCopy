@@ -47,6 +47,6 @@
     "@hyperapp/events": "^0.0.4",
     "@hyperapp/http": "^0.0.2",
     "hyperapp": "^2.0.4",
-    "chart.js": "^2.9.3"
+    "chart.js": "^2.9.4"
   }
 }
